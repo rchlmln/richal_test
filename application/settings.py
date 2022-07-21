@@ -14,5 +14,5 @@ HOST_POSTGRES_DB = "ec2-18-214-35-70.compute-1.amazonaws.com"
 PORT_POSTGRES_DB = "5432"
 DATABASE_POSTGRES_DB = "def8qdibhao4uk"
 
-FILE_UPLOADS = "D:/work python/richal_test/file"
-FILE_BUKTI_SEWA = "D:/work python/richal_test/file_bukti_sewa"
+FILE_UPLOADS = "./static/richal_test/file"
+FILE_BUKTI_SEWA = "./static/richal_test/file_bukti_sewa"
